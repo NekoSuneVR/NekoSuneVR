@@ -13,9 +13,11 @@ I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Front
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChisdealHDYT&count_private=true&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChisdealHDYT&theme=dark&layout=compact&langs_count=6" />
-  <img height="180em" src="https://img.shields.io/twitter/follow/chisdealhd?logo=twitter&style=for-the-badge" />
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=chisdealhdyt" />
 </div>
+
+<p align="left"> <a href="https://twitter.com/chisdealhd" target="blank"><img src="https://img.shields.io/twitter/follow/chisdealhd?logo=twitter&style=for-the-badge" alt="chisdealhd" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
