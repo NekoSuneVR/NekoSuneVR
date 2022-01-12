@@ -16,14 +16,17 @@ I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Front
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=chisdealhdyt" />
 </div>
 
-<p align="left"> <a href="https://twitter.com/chisdealhd" target="blank"><img src="https://img.shields.io/twitter/follow/chisdealhd?logo=twitter&style=for-the-badge" alt="chisdealhd" /></a> </p>
+<p align="left"> 
 
-<p align="left"> <a href="https://img.shields.io/twitch/status/chisdealhdyt?label=My%20Twitch%20Channel&style=for-the-badge" alt="chisdealhdyt" /></a> </p>
+<a href="https://twitter.com/chisdealhd" target="blank"><img src="https://img.shields.io/twitter/follow/chisdealhd?logo=twitter&style=for-the-badge" alt="chisdealhd" /></a>
 
-<p align="left"> <a href="https://img.shields.io/youtube/channel/subscribers/UC8ZrZA_GxEkQTuBDxWgAtCg?label=YouTube%20Channel&style=for-the-badge" alt="chisdealhdyt" /></a> </p>
+  <a href="https://twitch.tv/chisdealhdyt" target="blank"><img src="https://img.shields.io/twitch/status/chisdealhdyt?label=My%20Twitch%20Channel&style=for-the-badge" alt="chisdealhdyt" /></a>
+  
+  <a href="https://youtube.com/c/chisdealhd" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC8ZrZA_GxEkQTuBDxWgAtCg?label=YouTube%20Channel&style=for-the-badge" alt="chisdealhdyt" /></a>
+  
+  <a href="https://github.com/sponsors/ChisdealHDYT" target="blank"><img src="https://img.shields.io/github/sponsors/chisdealhdyt?label=GitHub%20Sponsors&style=for-the-badge" alt="chisdealhdyt" /></a>
 
-<p align="left"> <a href="https://img.shields.io/github/sponsors/chisdealhdyt?label=GitHub%20Sponsors&style=for-the-badge" alt="chisdealhdyt" /></a> </p>
-
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
