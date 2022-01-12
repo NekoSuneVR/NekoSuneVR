@@ -18,6 +18,12 @@ I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Front
 
 <p align="left"> <a href="https://twitter.com/chisdealhd" target="blank"><img src="https://img.shields.io/twitter/follow/chisdealhd?logo=twitter&style=for-the-badge" alt="chisdealhd" /></a> </p>
 
+<p align="left"> <a href="https://img.shields.io/twitch/status/chisdealhdyt?label=My%20Twitch%20Channel&style=for-the-badge" alt="chisdealhdyt" /></a> </p>
+
+<p align="left"> <a href="https://img.shields.io/youtube/channel/subscribers/UC8ZrZA_GxEkQTuBDxWgAtCg?label=YouTube%20Channel&style=for-the-badge" alt="chisdealhdyt" /></a> </p>
+
+<p align="left"> <a href="https://img.shields.io/github/sponsors/chisdealhdyt?label=GitHub%20Sponsors&style=for-the-badge" alt="chisdealhdyt" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +39,6 @@ I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Front
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ChisdealHDYT"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChisdealHDYT" /></a></p><br><br>
+<p><a href="https://www.patreon.com/ChisdealHDYT"> <img align="left" src="https://pbs.twimg.com/media/DC4gjLRUMAAyQ92.jpg" height="50" width="210" alt="ChisdealHDYT" /></a></p><br><br>
+<p><a href="https://apps.chisdealhd.co.uk/profile/?user=chisdealhdyt"> <img align="left" src="https://www.libreoffice.org/assets/Uploads/coingate-donate-button.png" height="50" width="210" alt="ChisdealHDYT" /></a></p><br><br>
+
