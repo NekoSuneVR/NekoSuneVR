@@ -37,27 +37,16 @@ I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Front
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 <a href="https://twitter.com/chisdealhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chisdealhd" height="30" width="40" /></a>
- 
 <a href="https://fb.com/chisdealhdyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chisdealhdyt" height="30" width="40" /></a>
- 
 <a href="https://instagram.com/chisdealhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chisdealhd" height="30" width="40" /></a>
- 
 <a href="https://www.youtube.com/c/chisdealhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chisdealhdyt" height="30" width="40" /></a>
- 
 <a href="https://discord.gg/RYscPHc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rsfsd" height="30" width="40" /></a>
-
 <a href="https://dlive.tv/ChisdealHDYT" target="blank"><img align="center" src="https://i.imgur.com/WcjVwVc.png" alt="rsfsd" height="30" width="40" /></a>
-
 <a href="https://www.vimm.tv/c/chisdealhd" target="blank"><img align="center" src="https://i.imgur.com/tP7YgrH.png" alt="rsfsd" height="30" width="40" /></a>
-
 <a href="https://trovo.live/ChisdealHDYT" target="blank"><img align="center" src="https://i.imgur.com/Haengsu.png" alt="rsfsd" height="30" width="40" /></a>
-
 <a href="https://peakd.com/@chisdealhd" target="blank"><img align="center" src="https://i.imgur.com/vgxARYV.png" alt="rsfsd" height="30" width="40" /></a>
-
 <a href="https://twitch.tv/chisdealhdyt" target="blank"><img align="center" src="https://i.imgur.com/qZKrxWo.png" alt="rsfsd" height="30" width="40" /></a>
-
 <a href="https://glimesh.tv/chisdealhdyt" target="blank"><img align="center" src="https://i.imgur.com/i6bIbkI.png" alt="rsfsd" height="30" width="40" /></a>
-
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
