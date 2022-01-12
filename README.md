@@ -16,6 +16,7 @@ I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Front
   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=chisdealhdyt" />
 </div>
 
+<h3 align="center">Social Status:</h3>
 <p align="center"> 
 
 <a href="https://twitter.com/chisdealhd" target="blank"><img src="https://img.shields.io/twitter/follow/chisdealhd?logo=twitter&style=for-the-badge" alt="chisdealhd" /></a>
