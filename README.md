@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ChisdealHDYT/ChisdealHDYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Frontend Designs, Content Creator, Streamer, Loves make stuff in NODEJS using [@VSCODE](https://code.visualstudio.com) and many more
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on: stuff [@VIMM-TV](https://github.com/VIMM-TV) and various open-source projects
+- 🌱 I’m currently learning: PHP, JS, NODEJS, CSS, C# and JAVA
+- 📫 How to reach me: [AlloyXuast Discord](https://discord.gg/RYscPHc) [PEAKD](https://peakd.com/@chisdealhd) [Twitter](https://twitter.com/ChisdealHD)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Never sleeps without MILK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChisdealHDYT&count_private=true&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChisdealHDYT&theme=dark&layout=compact&langs_count=6" />
+</div>
