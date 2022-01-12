@@ -1,6 +1,6 @@
-<div align="center">
+<h3 align="center">Hi there 👋</h3>
 
-Hi there 👋
+<div align="center">
 
 I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Frontend Designs, Content Creator, Streamer, Loves make stuff in NODEJS using [@VSCODE](https://code.visualstudio.com) and many more
 
@@ -14,7 +14,7 @@ I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Front
 ⚡ Fun fact: Never sleeps without MILK
 </div>
 
-### Stats
+<h3 align="center">Stats:</h3>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChisdealHDYT&count_private=true&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChisdealHDYT&theme=dark&layout=compact&langs_count=6" />
