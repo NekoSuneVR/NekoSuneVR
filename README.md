@@ -17,31 +17,31 @@ I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Front
 
 <h3 align="center">Stats:</h3>
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChisdealHDYT&count_private=true&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChisdealHDYT&theme=dark&layout=compact&langs_count=6" />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=chisdealhdyt" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChisVR&count_private=true&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChisVR&theme=dark&layout=compact&langs_count=6" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=chisvr" />
 </div>
 
 <h3 align="center">Social Status:</h3>
 <div align="center"> 
-<a href="https://twitter.com/chisdealhd" target="blank"><img src="https://img.shields.io/twitter/follow/chisdealhd?logo=twitter&style=for-the-badge" alt="chisdealhd" /></a>
-<a href="https://twitch.tv/chisdealhdyt" target="blank"><img src="https://img.shields.io/twitch/status/chisdealhdyt?label=My%20Twitch%20Channel&style=for-the-badge" alt="chisdealhdyt" /></a>
-<a href="https://youtube.com/c/chisdealhd" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UC8ZrZA_GxEkQTuBDxWgAtCg?label=YouTube%20Channel&style=for-the-badge" alt="chisdealhdyt" /></a>
-<a href="https://github.com/sponsors/ChisdealHDYT" target="blank"><img src="https://img.shields.io/github/sponsors/chisdealhdyt?label=GitHub%20Sponsors&style=for-the-badge" alt="chisdealhdyt" /></a>
+<a href="https://twitter.com/chisdealhd" target="blank"><img src="https://img.shields.io/twitter/follow/chisvr?logo=twitter&style=for-the-badge" alt="chisdealhd" /></a>
+<a href="https://twitch.tv/chisvr" target="blank"><img src="https://img.shields.io/twitch/status/chisvr?label=My%20Twitch%20Channel&style=for-the-badge" alt="chisdealhdyt" /></a>
+<a href="https://www.youtube.com/channel/UCPRy3c-fYJqblb1jFTTTV2w" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCPRy3c-fYJqblb1jFTTTV2w?label=YouTube%20Channel&style=for-the-badge" alt="chisdealhdyt" /></a>
+<a href="https://github.com/sponsors/ChisVR" target="blank"><img src="https://img.shields.io/github/sponsors/chisvr?label=GitHub%20Sponsors&style=for-the-badge" alt="chisdealhdyt" /></a>
  </div>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-<a href="https://twitter.com/chisdealhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chisdealhd" height="30" width="40" /></a>
-<a href="https://fb.com/chisdealhdyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chisdealhdyt" height="30" width="40" /></a>
-<a href="https://instagram.com/chisdealhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chisdealhd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chisdealhd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chisdealhdyt" height="30" width="40" /></a>
-<a href="https://discord.gg/RYscPHc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rsfsd" height="30" width="40" /></a>
-<a href="https://dlive.tv/ChisdealHDYT" target="blank"><img align="center" src="https://i.imgur.com/WcjVwVc.png" alt="rsfsd" height="30" width="40" /></a>
+<a href="https://twitter.com/chisvrofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chisdealhd" height="30" width="40" /></a>
+<a href="https://fb.com/chisvrofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chisdealhdyt" height="30" width="40" /></a>
+<a href="https://instagram.com/nekochisvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chisdealhd" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCPRy3c-fYJqblb1jFTTTV2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chisdealhdyt" height="30" width="40" /></a>
+<a href="https://discord.gg/s7rjcZNUVt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rsfsd" height="30" width="40" /></a>
+<a href="https://dlive.tv/ChisVR" target="blank"><img align="center" src="https://i.imgur.com/WcjVwVc.png" alt="rsfsd" height="30" width="40" /></a>
 <a href="https://www.vimm.tv/c/chisdealhd" target="blank"><img align="center" src="https://i.imgur.com/tP7YgrH.png" alt="rsfsd" height="30" width="40" /></a>
-<a href="https://trovo.live/ChisdealHDYT" target="blank"><img align="center" src="https://i.imgur.com/Haengsu.png" alt="rsfsd" height="30" width="40" /></a>
+<a href="https://trovo.live/ChisVR" target="blank"><img align="center" src="https://i.imgur.com/Haengsu.png" alt="rsfsd" height="30" width="40" /></a>
 <a href="https://peakd.com/@chisdealhd" target="blank"><img align="center" src="https://i.imgur.com/vgxARYV.png" alt="rsfsd" height="30" width="40" /></a>
-<a href="https://twitch.tv/chisdealhdyt" target="blank"><img align="center" src="https://i.imgur.com/qZKrxWo.png" alt="rsfsd" height="30" width="40" /></a>
+<a href="https://twitch.tv/chisvr" target="blank"><img align="center" src="https://i.imgur.com/qZKrxWo.png" alt="rsfsd" height="30" width="40" /></a>
 <a href="https://glimesh.tv/chisdealhdyt" target="blank"><img align="center" src="https://i.imgur.com/i6bIbkI.png" alt="rsfsd" height="30" width="40" /></a>
 </div>
 
@@ -50,8 +50,7 @@ I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Front
 
 <h3 align="center">Support:</h3>
 <div align="center">
-<a href="https://www.buymeacoffee.com/ChisdealHDYT"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ChisdealHDYT" /></a>
-<a href="https://www.patreon.com/ChisdealHDYT"> <img src="https://pbs.twimg.com/media/DC4gjLRUMAAyQ92.jpg" height="50" width="210" alt="ChisdealHDYT" /></a>
-<a href="https://apps.chisdealhd.co.uk/profile/?user=chisdealhdyt"> <img src="https://www.libreoffice.org/assets/Uploads/coingate-donate-button.png" height="50" width="210" alt="ChisdealHDYT" /></a>
+<a href="https://www.patreon.com/ChisVR"> <img src="https://pbs.twimg.com/media/DC4gjLRUMAAyQ92.jpg" height="50" width="210" alt="ChisdealHDYT" /></a>
+<a href="https://apps.chisdealhd.co.uk/profile/?user=chisvr"> <img src="https://www.libreoffice.org/assets/Uploads/coingate-donate-button.png" height="50" width="210" alt="ChisdealHDYT" /></a>
 </div>
 
