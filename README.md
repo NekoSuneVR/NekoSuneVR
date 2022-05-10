@@ -24,7 +24,7 @@ I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Front
 
 <h3 align="center">Social Status:</h3>
 <div align="center"> 
-<a href="https://twitter.com/chisdealhd" target="blank"><img src="https://img.shields.io/twitter/follow/chisvr?logo=twitter&style=for-the-badge" alt="chisdealhd" /></a>
+<a href="https://twitter.com/chisvrofficical" target="blank"><img src="https://img.shields.io/twitter/follow/chisvrofficical?logo=twitter&style=for-the-badge" alt="chisdealhd" /></a>
 <a href="https://twitch.tv/chisvr" target="blank"><img src="https://img.shields.io/twitch/status/chisvr?label=My%20Twitch%20Channel&style=for-the-badge" alt="chisdealhdyt" /></a>
 <a href="https://www.youtube.com/channel/UCPRy3c-fYJqblb1jFTTTV2w" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCPRy3c-fYJqblb1jFTTTV2w?label=YouTube%20Channel&style=for-the-badge" alt="chisdealhdyt" /></a>
 <a href="https://github.com/sponsors/ChisVR" target="blank"><img src="https://img.shields.io/github/sponsors/chisvr?label=GitHub%20Sponsors&style=for-the-badge" alt="chisdealhdyt" /></a>
