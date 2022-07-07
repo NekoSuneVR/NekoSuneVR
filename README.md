@@ -2,7 +2,7 @@
 
 <div align="center">
 
-I'm ChisdealHDYT and I Create Softwares, APIS, Websites, Backend Systems & Frontend Designs, Content Creator, Streamer, Loves make stuff in NODEJS using [@VSCODE](https://code.visualstudio.com) and many more
+I'm ChisVR and I Create Softwares, APIS, Websites, Backend Systems & Frontend Designs, Content Creator, Streamer, Loves make stuff in NODEJS using [@VSCODE](https://code.visualstudio.com) and many more
 
 🔭 I’m currently working on: stuff [@VIMM-TV](https://github.com/VIMM-TV) and various open-source projects
  
