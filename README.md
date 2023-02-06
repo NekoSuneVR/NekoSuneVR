@@ -2,15 +2,15 @@
 
 <div align="center">
 
-I'm ChisVR and I Create Softwares, APIS, Websites, Backend Systems & Frontend Designs, Content Creator, Streamer, Loves make stuff in NODEJS using [@VSCODE](https://code.visualstudio.com) and many more
+I'm NekoSuneVR and I Create Softwares, APIS, Websites, Backend Systems & Frontend Designs, Content Creator, Streamer, Loves make stuff in NODEJS using [@VSCODE](https://code.visualstudio.com) and many more
 
 🔭 I’m currently working on: stuff [@VIMM-TV](https://github.com/VIMM-TV) **(RETIRED DEVELOPER TO VIMM)** and various open-source projects
  
 🌱 I’m currently learning: PHP, JS, NODEJS, CSS, C# and JAVA
  
-📫 How to reach me: [AlloyXuast Discord](https://discord.gg/RYscPHc) [PEAKD](https://peakd.com/@chisdealhd) [Twitter](https://twitter.com/ChisVROfficial)
+📫 How to reach me: [AlloyXuast Discord](https://discord.gg/RYscPHc) [PEAKD](https://peakd.com/@chisdealhd) [Twitter](https://twitter.com/NekoSuneVR)
  
-😄 Pronouns: He/Him
+😄 Pronouns: Any
  
 ⚡ Fun fact: Never sleeps without MILK
 </div>
