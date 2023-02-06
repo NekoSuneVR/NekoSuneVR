@@ -4,8 +4,12 @@
 
 I'm NekoSuneVR and I Create Softwares, APIS, Websites, Backend Systems & Frontend Designs, Content Creator, Streamer, Loves make stuff in NODEJS using [@VSCODE](https://code.visualstudio.com) and many more
 
-🔭 I’m currently working on: stuff [@VIMM-TV](https://github.com/VIMM-TV) **(RETIRED DEVELOPER TO VIMM)** and various open-source projects
- 
+🔭 I’m currently working on: Unity Animations, Build better Discord BOT then Garbage Mee6 BOT and just Helping Friends as General
+
+**EXAMPLE ANIMATION VIDEO**
+
+https://user-images.githubusercontent.com/18028479/217059441-44606043-20c9-4590-aa2f-11b8de2d7865.mp4
+
 🌱 I’m currently learning: PHP, JS, NODEJS, CSS, C# and JAVA
  
 📫 How to reach me: [AlloyXuast Discord](https://discord.gg/RYscPHc) [PEAKD](https://peakd.com/@chisdealhd) [Twitter](https://twitter.com/NekoSuneVR)
