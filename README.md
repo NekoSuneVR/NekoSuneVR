@@ -24,8 +24,8 @@ I'm NekoSuneVR and I Create Softwares, APIS, Websites, Backend Systems & Fronten
 
 <h3 align="center">Social Status:</h3>
 <div align="center"> 
-<a href="https://twitter.com/chisvrofficial" target="blank"><img src="https://img.shields.io/twitter/follow/NekoSuneVR?logo=twitter&style=for-the-badge" alt="NekoSuneVR" /></a>
-<a href="https://twitch.tv/chisvr" target="blank"><img src="https://img.shields.io/twitch/status/NekoSuneVR?label=My%20Twitch%20Channel&style=for-the-badge" alt="NekoSuneVR" /></a>
+<a href="https://twitter.com/nekosunevr" target="blank"><img src="https://img.shields.io/twitter/follow/NekoSuneVR?logo=twitter&style=for-the-badge" alt="NekoSuneVR" /></a>
+<a href="https://twitch.tv/nekosunevr" target="blank"><img src="https://img.shields.io/twitch/status/NekoSuneVR?label=My%20Twitch%20Channel&style=for-the-badge" alt="NekoSuneVR" /></a>
 <a href="https://www.youtube.com/channel/UCPRy3c-fYJqblb1jFTTTV2w" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCPRy3c-fYJqblb1jFTTTV2w?label=YouTube%20Channel&style=for-the-badge" alt="NekoSuneVR" /></a>
 <a href="https://github.com/sponsors/NekoSuneVR" target="blank"><img src="https://img.shields.io/github/sponsors/chisvr?label=GitHub%20Sponsors&style=for-the-badge" alt="chisdealhdyt" /></a>
  </div>
