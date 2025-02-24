@@ -1,9 +1,9 @@
 <h3 align="center">Hi there 👋</h3>
 <div align="center">
-   I'm NekoSuneVR and I Create Softwares, APIS, Websites, Backend Systems & Frontend Designs, Content Creator, Streamer, Loves make stuff in NODEJS using [@VSCODE](https://code.visualstudio.com) and many more
+   I'm NekoSuneVR and I Create Softwares, APIS, Websites, Backend Systems & Frontend Designs, Content Creator, Streamer, Loves make stuff in NODEJS using https://code.visualstudio.com and many more
    🔭 I’m currently working on: Unity Animations, Build better Discord BOT then Garbage Mee6 BOT and just Helping Friends as General
    🌱 I’m currently learning: PHP, JS, NODEJS, CSS, C# and JAVA
-   📫 How to reach me: [AlloyXuast Discord](https://discord.gg/RYscPHc) [PEAKD](https://peakd.com/@chisdealhd) [Twitter](https://twitter.com/NekoSuneVR)
+   📫 How to reach me: TODO
    😄 Pronouns: Any
    ⚡ Fun fact: Never sleeps without MILK
 </div>
