@@ -1,43 +1,139 @@
-<h3 align="center">Hi there 👋</h3>
+<h3 align="center">👋 Hi there, I'm <strong>NekoSuneVR</strong></h3>
+
 <div align="center">
-   I'm NekoSuneVR and I Create Softwares, APIS, Websites, Backend Systems & Frontend Designs, Content Creator, Streamer, Loves make stuff in NODEJS using https://code.visualstudio.com and many more
-   🔭 I’m currently working on: Unity Animations, Build better Discord BOT then Garbage Mee6 BOT and just Helping Friends as General
-   🌱 I’m currently learning: PHP, JS, NODEJS, CSS, C# and JAVA
-   📫 How to reach me: TODO
-   😄 Pronouns: Any
-   ⚡ Fun fact: Never sleeps without MILK
+
+<p>
+   I create <strong>software, APIs, websites, backend systems, frontend designs</strong>, and more.<br>
+   I'm also a <strong>content creator, streamer</strong>, and I love building in <strong>Node.js</strong> using <a href="https://code.visualstudio.com" target="_blank">VS Code</a>!
+</p>
+
+<p>🔭 <strong>Currently working on:</strong> Unity Animations, a better Discord Bot than MEE6, and helping friends with tech ideas.</p>
+<p>🌱 <strong>Learning:</strong> PHP, JavaScript, Node.js, CSS, C#, Java</p>
+<p>📫 <strong>Reach me:</strong> TODO</p>
+<p>😄 <strong>Pronouns:</strong> Any</p>
+<p>⚡ <strong>Fun fact:</strong> Never sleeps without milk 🥛</p>
+
 </div>
-<h3 align="center">Stats:</h3>
+
+---
+
+<h3 align="center">📊 Stats</h3>
+
 <div align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NekoSuneVR&count_private=true&show_icons=true&theme=dark" />
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSuneVR&theme=dark&layout=compact&langs_count=6" />
-   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=NekoSuneVR" />
+   <!-- 🧠 GitHub Core Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NekoSuneVR&count_private=true&show_icons=true&theme=dark&include_orgs=NekoSuneProjects" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSuneVR&theme=dark&layout=compact&langs_count=6" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=NekoSuneVR&theme=dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NekoSuneVR&theme=github_dark" />
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=NekoSuneVR&theme=react-dark" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=NekoSuneVR&theme=darkhub" />
 </div>
-<h3 align="center">Social Status:</h3>
-<div align="center"> 
-   <a href="https://twitter.com/nekosunevr" target="blank"><img src="https://img.shields.io/twitter/follow/NekoSuneVR?logo=twitter&style=for-the-badge" alt="NekoSuneVR" /></a>
-   <a href="https://twitch.tv/nekosunevr" target="blank"><img src="https://img.shields.io/twitch/status/NekoSuneVR?label=My%20Twitch%20Channel&style=for-the-badge" alt="NekoSuneVR" /></a>
-   <a href="https://www.youtube.com/channel/UCPRy3c-fYJqblb1jFTTTV2w" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCPRy3c-fYJqblb1jFTTTV2w?label=YouTube%20Channel&style=for-the-badge" alt="NekoSuneVR" /></a>
-   <a href="https://github.com/sponsors/NekoSuneVR" target="blank"><img src="https://img.shields.io/github/sponsors/NekoSuneVR?label=GitHub%20Sponsors&style=for-the-badge" alt="NekoSuneVR" /></a>
-</div>
-<h3 align="center">Connect with me:</h3>
+
+---
+
+<h3 align="center">🌐 Social & Stats</h3>
+
 <div align="center">
-   <a href="https://twitter.com/NekoSuneVR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NekoSuneVR" height="30" width="40" /></a>
-   <a href="https://fb.com/NekoSuneVR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chisdealhdyt" height="30" width="40" /></a>
-   <a href="https://instagram.com/NekoSuneVR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chisdealhd" height="30" width="40" /></a>
-   <a href="https://www.youtube.com/channel/UCPRy3c-fYJqblb1jFTTTV2w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chisdealhdyt" height="30" width="40" /></a>
-   <a href="https://discord.gg/s7rjcZNUVt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rsfsd" height="30" width="40" /></a>
-   <a href="https://dlive.tv/NekoSuneVR" target="blank"><img align="center" src="https://i.imgur.com/WcjVwVc.png" alt="rsfsd" height="30" width="40" /></a>
-   <a href="https://trovo.live/NekoSuneVR" target="blank"><img align="center" src="https://i.imgur.com/Haengsu.png" alt="rsfsd" height="30" width="40" /></a>
-   <a href="https://peakd.com/@chisdealhd" target="blank"><img align="center" src="https://i.imgur.com/vgxARYV.png" alt="rsfsd" height="30" width="40" /></a>
-   <a href="https://twitch.tv/NekoSuneVR" target="blank"><img align="center" src="https://i.imgur.com/qZKrxWo.png" alt="rsfsd" height="30" width="40" /></a>
+
+  <!-- Social badges -->
+  <a href="https://x.com/NekoSuneVR" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/NekoSuneVR?logo=twitter&style=for-the-badge" alt="X Follow" />
+  </a>
+  
+  <a href="https://nekosunevr.co.uk/?redirect=discord" target="_blank">
+    <img src="https://img.shields.io/discord/1274732053337870417?label=Discord&logo=discord&style=for-the-badge" alt="Discord" />
+  </a>
+  
+  <a href="https://bsky.app/profile/cc.nekosunevr.co.uk" target="_blank">
+    <img src="https://img.shields.io/bluesky/followers/cc.nekosunevr.co.uk?label=bluesky&style=for-the-badge&logo=bluesky" alt="Bluesky" />
+  </a>
+  
+  <a href="https://twitch.tv/NekoSuneVR" target="_blank">
+    <img src="https://img.shields.io/twitch/status/NekoSuneVR?label=Twitch&style=for-the-badge&logo=twitch" alt="Twitch Status" />
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCPRy3c-fYJqblb1jFTTTV2w" target="_blank">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCPRy3c-fYJqblb1jFTTTV2w?label=YouTube&style=for-the-badge&logo=youtube" alt="YouTube Subscribers" />
+  </a>
+  
+  <a href="https://github.com/sponsors/NekoSuneVR" target="_blank">
+    <img src="https://img.shields.io/github/sponsors/NekoSuneVR?label=GitHub%20Sponsors&style=for-the-badge&logo=github" alt="GitHub Sponsors" />
+  </a>
+
 </div>
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" /> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40" /> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" /> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" /></a>
- 
+
+<!-- YouTube stats card -->
+<div align="center" style="margin-top: 15px;">
+  <img height="180em" src="https://youtube-stats-card.vercel.app/api?channelid=UCPRy3c-fYJqblb1jFTTTV2w&theme=dark" alt="YouTube Stats" />
+  <img height="180em" src="https://youtube-stats-card.vercel.app/api?channelid=UC_25y5ufOZtIZMIDGOop2Qw&theme=dark" alt="YouTube Stats" />
 </div>
-<h3 align="center">Support:</h3>
+
+---
+
+<h3 align="center">🤝 Connect with me</h3>
+
 <div align="center">
-   <a href="https://www.patreon.com/NekoSuneVR"> <img src="https://pbs.twimg.com/media/DC4gjLRUMAAyQ92.jpg" height="50" width="210" alt="NekoSuneVR" /></a>
+   <a href="https://x.com/NekoSuneVR" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter" />
+   </a>
+   <a href="https://fb.com/NekoSuneVR" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook" />
+   </a>
+   <a href="https://instagram.com/NekoSuneVR" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
+   </a>
+   <a href="https://www.youtube.com/channel/UCPRy3c-fYJqblb1jFTTTV2w" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube" />
+   </a>
+   <a href="https://nekosunevr.co.uk/?redirect=discord" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="Discord" />
+   </a>
+   <a href="https://dlive.tv/NekoSuneVR" target="_blank">
+      <img src="https://i.imgur.com/WcjVwVc.png" height="30" width="40" alt="DLive" />
+   </a>
+   <a href="https://trovo.live/NekoSuneVR" target="_blank">
+      <img src="https://i.imgur.com/Haengsu.png" height="30" width="40" alt="Trovo" />
+   </a>
+   <a href="https://peakd.com/@chisdealhd" target="_blank">
+      <img src="https://i.imgur.com/vgxARYV.png" height="30" width="40" alt="PeakD" />
+   </a>
+   <a href="https://twitch.tv/NekoSuneVR" target="_blank">
+      <img src="https://i.imgur.com/qZKrxWo.png" height="30" width="40" alt="Twitch" />
+   </a>
+</div>
+
+---
+
+<h3 align="center">🧰 Languages & Tools</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=blender,cs,css,docker,electron,html,java,js,linux,mysql,nginx,nodejs,php,postgres,postman,react,redis,sqlite,unity,vue,webpack&theme=dark" />
+</div>
+
+---
+
+<h3 align="center">💖 Support Me</h3>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <!-- Patreon -->
+  <a href="https://www.patreon.com/NekoSuneVR" target="_blank">
+    <img src="https://img.shields.io/badge/Patreon-Join%20Me-F96854?style=for-the-badge&logo=patreon&logoColor=ffffff" alt="Patreon" />
+  </a>
+
+  <!-- Ko-fi -->
+  <a href="https://ko-fi.com/NekoSuneVR" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-29ABE0?style=for-the-badge&logo=kofi&logoColor=ffffff" alt="Ko-fi" />
+  </a>
+
+  <!-- GitHub Sponsors -->
+  <a href="https://github.com/sponsors/NekoSuneVR" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Sponsors-171515?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub Sponsors" />
+  </a>
+
+  <!-- Twitch Subscribe -->
+  <a href="https://www.twitch.tv/products/chisdealhd" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-Subscribe-9146FF?style=for-the-badge&logo=twitch&logoColor=ffffff" alt="Twitch Subscribe" />
+  </a>
+
 </div>
