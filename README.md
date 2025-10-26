@@ -26,7 +26,6 @@
   <img height="180em" src="https://streak-stats.demolab.com?user=NekoSuneVR&theme=dark" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NekoSuneVR&theme=github_dark" />
   <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=NekoSuneVR&theme=react-dark" />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=NekoSuneVR&theme=darkhub" />
 </div>
 
 ---
