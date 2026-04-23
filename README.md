@@ -1,138 +1,141 @@
-<h3 align="center">👋 Hi there, I'm <strong>NekoSuneVR</strong></h3>
+<h1 align="center">Hey, I'm NekoSuneVR 👋</h1>
 
-<div align="center">
-
-<p>
-   I create <strong>software, APIs, websites, backend systems, frontend designs</strong>, and more.<br>
-   I'm also a <strong>content creator, streamer</strong>, and I love building in <strong>Node.js</strong> using <a href="https://code.visualstudio.com" target="_blank">VS Code</a>!
+<p align="center">
+  Developer • Creator • Streamer
 </p>
 
-<p>🔭 <strong>Currently working on:</strong> Unity Animations, a better Discord Bot than MEE6, and helping friends with tech ideas.</p>
-<p>🌱 <strong>Learning:</strong> PHP, JavaScript, Node.js, CSS, C#, Java</p>
-<p>📫 <strong>Reach me:</strong> TODO</p>
-<p>😄 <strong>Pronouns:</strong> Any</p>
-<p>⚡ <strong>Fun fact:</strong> Never sleeps without milk 🥛</p>
+<p align="center">
+  I build software, APIs, websites, backend systems, frontend experiences, and whatever weird idea sounds fun enough to make real.
+</p>
 
-</div>
-
----
-
-<h3 align="center">📊 Stats</h3>
-
-<div align="center">
-   <!-- 🧠 GitHub Core Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NekoSuneVR&count_private=true&show_icons=true&theme=dark&include_orgs=NekoSuneProjects" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSuneVR&theme=dark&layout=compact&langs_count=6" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=NekoSuneVR&theme=dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NekoSuneVR&theme=github_dark" />
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=NekoSuneVR&theme=react-dark" />
-</div>
+<p align="center">
+  <a href="https://github.com/NekoSuneVR?tab=repositories">Repositories</a> •
+  <a href="https://nekosunevr.co.uk">Website</a> •
+  <a href="https://x.com/NekoSuneVR">X / Twitter</a> •
+  <a href="https://twitch.tv/NekoSuneVR">Twitch</a> •
+  <a href="https://github.com/sponsors/NekoSuneVR">Sponsor</a>
+</p>
 
 ---
 
-<h3 align="center">🌐 Social & Stats</h3>
+## About Me
 
-<div align="center">
+I'm **NekoSuneVR**, a developer and content creator who enjoys building useful, chaotic, and fun things.
 
-  <!-- Social badges -->
-  <a href="https://x.com/NekoSuneVR" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/NekoSuneVR?logo=twitter&style=for-the-badge" alt="X Follow" />
-  </a>
-  
-  <a href="https://nekosunevr.co.uk/?redirect=discord" target="_blank">
-    <img src="https://img.shields.io/discord/1274732053337870417?label=Discord&logo=discord&style=for-the-badge" alt="Discord" />
-  </a>
-  
-  <a href="https://bsky.app/profile/cc.nekosunevr.co.uk" target="_blank">
-    <img src="https://img.shields.io/bluesky/followers/cc.nekosunevr.co.uk?label=bluesky&style=for-the-badge&logo=bluesky" alt="Bluesky" />
-  </a>
-  
-  <a href="https://twitch.tv/NekoSuneVR" target="_blank">
-    <img src="https://img.shields.io/twitch/status/NekoSuneVR?label=Twitch&style=for-the-badge&logo=twitch" alt="Twitch Status" />
-  </a>
-  
-  <a href="https://www.youtube.com/channel/UCPRy3c-fYJqblb1jFTTTV2w" target="_blank">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UCPRy3c-fYJqblb1jFTTTV2w?label=YouTube&style=for-the-badge&logo=youtube" alt="YouTube Subscribers" />
-  </a>
-  
-  <a href="https://github.com/sponsors/NekoSuneVR" target="_blank">
-    <img src="https://img.shields.io/github/sponsors/NekoSuneVR?label=GitHub%20Sponsors&style=for-the-badge&logo=github" alt="GitHub Sponsors" />
-  </a>
+I work across:
 
-</div>
+- Software development
+- APIs and backend systems
+- Websites and frontend design
+- Node.js projects
+- Creative tech experiments
 
-<!-- YouTube stats card -->
-<div align="center" style="margin-top: 15px;">
-  <img height="180em" src="https://youtube-stats-card.vercel.app/api?channelid=UCPRy3c-fYJqblb1jFTTTV2w&theme=dark" alt="YouTube Stats" />
-  <img height="180em" src="https://youtube-stats-card.vercel.app/api?channelid=UC_25y5ufOZtIZMIDGOop2Qw&theme=dark" alt="YouTube Stats" />
-</div>
+I also stream, create content, and spend a lot of time turning random ideas into real projects.
 
 ---
 
-<h3 align="center">🤝 Connect with me</h3>
+## What I'm Working On
 
-<div align="center">
-   <a href="https://x.com/NekoSuneVR" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter" />
-   </a>
-   <a href="https://fb.com/NekoSuneVR" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook" />
-   </a>
-   <a href="https://instagram.com/NekoSuneVR" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
-   </a>
-   <a href="https://www.youtube.com/channel/UCPRy3c-fYJqblb1jFTTTV2w" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" alt="YouTube" />
-   </a>
-   <a href="https://nekosunevr.co.uk/?redirect=discord" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" alt="Discord" />
-   </a>
-   <a href="https://dlive.tv/NekoSuneVR" target="_blank">
-      <img src="https://i.imgur.com/WcjVwVc.png" height="30" width="40" alt="DLive" />
-   </a>
-   <a href="https://trovo.live/NekoSuneVR" target="_blank">
-      <img src="https://i.imgur.com/Haengsu.png" height="30" width="40" alt="Trovo" />
-   </a>
-   <a href="https://peakd.com/@chisdealhd" target="_blank">
-      <img src="https://i.imgur.com/vgxARYV.png" height="30" width="40" alt="PeakD" />
-   </a>
-   <a href="https://twitch.tv/NekoSuneVR" target="_blank">
-      <img src="https://i.imgur.com/qZKrxWo.png" height="30" width="40" alt="Twitch" />
-   </a>
-</div>
+- Unity animations
+- Building a better Discord bot
+- Helping friends turn tech ideas into real projects
 
 ---
 
-<h3 align="center">🧰 Languages & Tools</h3>
+## Currently Learning
 
-<div align="center">
+- PHP
+- JavaScript
+- Node.js
+- CSS
+- C#
+- Java
+
+---
+
+## Fun Stuff
+
+- Pronouns: **Any**
+- Fun fact: **Never sleeps without milk 🥛**
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NekoSuneVR&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekoSuneVR&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=NekoSuneVR&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NekoSuneVR&theme=tokyo-night" />
+</p>
+
+---
+
+## Featured Links
+
+<p align="center">
+  <a href="https://x.com/NekoSuneVR">
+    <img src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://nekosunevr.co.uk/?redirect=discord">
+    <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://bsky.app/profile/cc.nekosunevr.co.uk">
+    <img src="https://img.shields.io/badge/Bluesky-Follow-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>
+  <a href="https://twitch.tv/NekoSuneVR">
+    <img src="https://img.shields.io/badge/Twitch-Watch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCPRy3c-fYJqblb1jFTTTV2w">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://x.com/NekoSuneVR"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://nekosunevr.co.uk/?redirect=discord"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="https://twitch.tv/NekoSuneVR"><img src="https://cdn.simpleicons.org/twitch/9146FF" height="48" /></a>
+  <a href="https://www.youtube.com/channel/UCPRy3c-fYJqblb1jFTTTV2w"><img src="https://cdn.simpleicons.org/youtube/FF0000" height="48" /></a>
+</p>
+
+---
+
+## Languages & Tools
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=blender,cs,css,docker,electron,html,java,js,linux,mysql,nginx,nodejs,php,postgres,postman,react,redis,sqlite,unity,vue,webpack&theme=dark" />
-</div>
+</p>
 
 ---
 
-<h3 align="center">💖 Support Me</h3>
+## Support
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-  <!-- Patreon -->
-  <a href="https://www.patreon.com/NekoSuneVR" target="_blank">
-    <img src="https://img.shields.io/badge/Patreon-Join%20Me-F96854?style=for-the-badge&logo=patreon&logoColor=ffffff" alt="Patreon" />
+<p align="center">
+  <a href="https://www.patreon.com/NekoSuneVR">
+    <img src="https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
   </a>
-
-  <!-- Ko-fi -->
-  <a href="https://ko-fi.com/NekoSuneVR" target="_blank">
-    <img src="https://img.shields.io/badge/Ko--fi-Support%20Me-29ABE0?style=for-the-badge&logo=kofi&logoColor=ffffff" alt="Ko-fi" />
+  <a href="https://ko-fi.com/NekoSuneVR">
+    <img src="https://img.shields.io/badge/Ko--fi-Tip-29ABE0?style=for-the-badge&logo=kofi&logoColor=white" />
   </a>
-
-  <!-- GitHub Sponsors -->
-  <a href="https://github.com/sponsors/NekoSuneVR" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Sponsors-171515?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub Sponsors" />
+  <a href="https://github.com/sponsors/NekoSuneVR">
+    <img src="https://img.shields.io/badge/GitHub-Sponsor-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
 
-  <!-- Twitch Subscribe -->
-  <a href="https://www.twitch.tv/products/chisdealhd" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-Subscribe-9146FF?style=for-the-badge&logo=twitch&logoColor=ffffff" alt="Twitch Subscribe" />
-  </a>
+---
 
-</div>
+## Pinned Projects
+
+Check out my repositories here:
+
+👉 **[View all projects](https://github.com/NekoSuneVR?tab=repositories)**
